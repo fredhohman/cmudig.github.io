@@ -165,14 +165,16 @@ schedule:
   - date: 2022-02-22
     title: "Interpretability"
     discussion: https://canvas.cmu.edu/courses/27195/discussion_topics/392481
+    slides: https://drive.google.com/file/d/1jvpirvhzIDuEQxj8kIBmYwGT7UNETCEb/view?usp=sharing
     readings:
       - name: Live-coding Practical ML from Thursday's Class (Feb 17)
         required: false
         type: website
         url: https://colab.research.google.com/drive/1WtziegWec_AEW20obyjVN69XHcDaln-L?usp=sharing
   - date: 2022-02-24
-    title: "Perception"
+    title: "Intepretability 2"
     discussion: https://canvas.cmu.edu/courses/27195/discussion_topics/392482
+    slides: https://drive.google.com/file/d/1k1W6vc0TkJxQHgW2xIzlvXzoiHQDHWok/view?usp=sharing
     readings:
       - name: "Layering and Seperation (Chapter 3)"
         url: https://drive.google.com/file/d/1--k-IiRxcYJWADUo9EvthaG8pgTzxwaz/view?usp=sharing
@@ -180,8 +182,12 @@ schedule:
         venue: Envisioning Information
         required: true
         type: pdf
+      - name: Live-coding Practical+Interpretable ML from Tuesday's Class (Feb 22)
+        required: false
+        type: website
+        url: https://colab.research.google.com/drive/1dlgxHRQP9pTrs2q5vu1w09ckpsjmPfmU?usp=sharing
   - date: 2022-03-01
-    title: "Designing with Effective Visual Encodings"
+    title: "Perception + Designing with Effective Visual Encodings"
     discussion: "https://canvas.cmu.edu/courses/27195/discussion_topics/392485"
     readings:
       - name: Basic Principles of Visualization (Chapter 5)
@@ -196,6 +202,10 @@ schedule:
         url: https://blog.datawrapper.de/colors/
         type: website
         required: false
+      - name: Live-coding Practical+Interpretable ML from Thursday's Class (Feb 24)
+        required: false
+        type: website
+        url: https://colab.research.google.com/drive/1r59BM9jiR0ofn3Aw5BcrV4NAWyoHYlGI?usp=sharing
     due:
     - name: "Assignment 2: Design and Build an Interactive Data Science Application"
       url: "https://docs.google.com/document/d/1JKsJSZetieW7udPA_xE4oXgitNdazt6QVaohgu4_N2I/edit?usp=sharing"
